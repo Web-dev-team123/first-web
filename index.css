@@ -1,0 +1,86 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+div#first{
+  font-size: 20px;
+  transform: rotateZ(90deg);
+  color: red;
+  width: 900px;
+  position: relative;
+  left: -438px;
+  top:400px;
+  background: none;
+}
+div#second{
+  font-size: 20px;
+  transform: rotateZ(90deg);
+  color: red;
+  width: 900px;
+  position: relative;
+  left: -100px;
+  top:400px;
+  background: none;
+}
+img#sukuna{
+  width: 155px;
+  height: 333.85px;
+  position: relative;
+  left: 175px;
+  top: 130px;
+  border-radius: 10px;
+  
+}
+img#gojo{
+  width: 166px;
+  height: 334.45px;
+  position: relative;
+  left: -120px;
+  top:50px;
+  border-radius: 10px;
+  border-right: 1px solid white;
+  border-bottom: 0.5px solid white;
+}
+div#third{
+  color: red;
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: -370px;
+  left: 46px;
+  text-shadow: -1px -1px 1px snow;
+}
+div#fourth{
+  color: red;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 60px;
+  left: 150px;
+  text-shadow: -1px -1px 1px snow;
+}
+div#fifth {
+  color: white;
+  font-size: 43px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: -80px;
+  left: 20px;
+  text-shadow: -1px -1px 1px red;
+}
+div#sixth {
+  color: white;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: -450px;
+  left: 205px;
+  text-shadow: -1px -1px 1px red;
+}
+div#gg{
+  color: black;
+  text-shadow: 0px 0px 1px white;
+  position: relative;
+  left: 100px;
+}
